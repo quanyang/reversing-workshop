@@ -15,8 +15,8 @@ In this workshop we will be solving the challenges from The Flare On Challenge 2
 
 ## Challenges
 
-### 1 - challenge1.exe
-### 2 - DudeLocker.exe
+### 1 - [challenge1.exe](1/challenge1.md)
+### 2 - [DudeLocker.exe](2/challenge2.md)
 ### 3 - unknown
 ### 4 - flareon2016challenge.dll
 ### 5 - smokestack.exe
