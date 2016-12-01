@@ -22,7 +22,7 @@ In this workshop we will be solving the challenges from The Flare On Challenge 2
 ### 5 - smokestack.exe
 
 # Credits
-FireEye for the challenges provided from the Flare On Challenge 2016.
+FireEye for the challenges provided from the Flare On Challenge 2016.  
 Jacob Soo for providing some of the tools.
 
-Materials provided here should not be used for commercial purposes or for any activity that would result in any monetary benefits. I do not claim credit for the challenges used in this workshop and the copyright goes to the individual authors/FireEye. 
+Materials provided here should not be used for commercial purpose. I do not claim credit for the challenges used in this workshop and the copyright belongs to the individual authors/FireEye. 
