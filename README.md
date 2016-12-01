@@ -1,1 +1,28 @@
-# reversing-workshop
+# Reversing Workshop
+
+In this workshop we will be solving the challenges from The Flare On Challenge 2016 by FireEye's Advanced Reverse Engineering team.
+
+## Pre-requisites:
+1. Be able to understand simple x86 ASM instructions or be able to learn on the go.
+
+## Software Pre-Requisites:
+1. Windows 7 64-bit with .NET framework 4.5 and Visual Studio installed (Preferred, not sure if others would have weird behaviors)
+2. Ubuntu 16.04 with gccgo5 installed (Preferred, you can also install other versions of ubuntu with gccgo5)
+3. Wireshark
+4. Python (2.7 preferred)
+5. IDA (You can download demo from https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+6. Node.js
+
+## Challenges
+
+### 1 - challenge1.exe
+### 2 - DudeLocker.exe
+### 3 - unknown
+### 4 - flareon2016challenge.dll
+### 5 - smokestack.exe
+
+# Credits
+FireEye for the challenges provided from the Flare On Challenge 2016.
+Jacob Soo for providing some of the tools.
+
+Materials provided here should not be used for commercial purposes or for any activity that would result in any monetary benefits. I do not claim credit for the challenges used in this workshop and the copyright goes to the individual authors/FireEye. 
