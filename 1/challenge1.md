@@ -1,6 +1,6 @@
 # Challenge 1
 
-Download the challenge binary from [here]("challenge1.exe").
+Download the challenge binary from [here](challenge1.exe).
 
 ## Start
 
