@@ -10,6 +10,8 @@ This challenge is a lot more complicated and involves some dynamic analysis.
 
 Firstly, lets find the function we're interested in!
 
+### Begin!
+
 #### Function 0x4027A0
 
 Based on the callgraph alone, this appears to be a large and complex function.
