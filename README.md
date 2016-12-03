@@ -21,7 +21,9 @@ In this workshop we will be solving the challenges from The Flare On Challenge 2
 ### 4 - [flareon2016challenge.dll](4/challenge4.md)
 ### 5 - smokestack.exe - Try it on your own.
 ### 6 - [khaki.exe](6/challenge6.md)
+### 7 - [hashes](7/challenge7.md)
 ### 9 - [GUI.exe](9/challenge9.md)
+### 10 - [flava.pcap](10/challenge10.md)
 
 # Credits
 FireEye for the challenges provided from the Flare On Challenge 2016.  
