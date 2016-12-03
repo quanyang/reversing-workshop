@@ -19,7 +19,8 @@ In this workshop we will be solving the challenges from The Flare On Challenge 2
 ### 2 - [DudeLocker.exe](2/challenge2.md)
 ### 3 - [unknown](3/challenge3.md)
 ### 4 - [flareon2016challenge.dll](4/challenge4.md)
-### 5 - [smokestack.exe](5/challenge5.md)
+### 5 - smokestack.exe - Try it on your own.
+### 6 - [khaki.exe](6/challenge6.md)
 
 # Credits
 FireEye for the challenges provided from the Flare On Challenge 2016.  
